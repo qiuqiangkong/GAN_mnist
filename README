@@ -1,0 +1,1 @@
+python dcgan_mnist.py		# meaningful digits generated after around 10 epochs. 
